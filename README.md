@@ -1,1 +1,1 @@
-# term-setup.py
+You can access the file using the "git clone" command. 
